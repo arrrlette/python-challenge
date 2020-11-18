@@ -4,7 +4,7 @@
 
 This project was made up of two parts: 1) PyBank and 2) PyPoll.
 
-Python and Jupyter Notebooks were used in this project.
+Python and Visual Studio Code were used in this project.
 
 ## PyBank
 
